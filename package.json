@@ -42,7 +42,7 @@
     "eslint-config-prettier": "^8.5.0",
     "husky": "^7.0.0",
     "jest": "^27.5.1",
-    "lint-staged": "^12.3.5",
+    "lint-staged": "^12.5.0",
     "msw": "^0.39.1",
     "postcss-extend": "^1.0.5",
     "postcss-flexbugs-fixes": "^5.0.2",
